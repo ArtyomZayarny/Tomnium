@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tomnium/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Tomnium/static/js/main.7b8f214f.chunk.js",
+    "main.js.map": "/Tomnium/static/js/main.7b8f214f.chunk.js.map",
+    "runtime-main.js": "/Tomnium/static/js/runtime-main.d5210559.js",
+    "runtime-main.js.map": "/Tomnium/static/js/runtime-main.d5210559.js.map",
+    "static/js/2.f3fca92f.chunk.js": "/Tomnium/static/js/2.f3fca92f.chunk.js",
+    "static/js/2.f3fca92f.chunk.js.map": "/Tomnium/static/js/2.f3fca92f.chunk.js.map",
+    "index.html": "/Tomnium/index.html",
+    "precache-manifest.85dd02de65b49cf6dcf031a81c0d4c3a.js": "/Tomnium/precache-manifest.85dd02de65b49cf6dcf031a81c0d4c3a.js",
+    "service-worker.js": "/Tomnium/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Tomnium/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f3fca92f.chunk.js.LICENSE.txt": "/Tomnium/static/js/2.f3fca92f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5210559.js",
+    "static/js/2.f3fca92f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7b8f214f.chunk.js"
+  ]
+}
